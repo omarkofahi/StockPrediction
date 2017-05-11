@@ -137,3 +137,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# ADDED BY OMAR. 5/11/17. Ignore Spyder project cache folders
+__pycache__/
+.spyproject/
